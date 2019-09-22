@@ -14,9 +14,7 @@ main, footer {
 .companyname, .companyslogan {
     margin: 0px auto; 
     color: white; 
-    position: absolute; 
-    left: 150px; 
-    top: 10px; 
+   
 }
 
 .companyname {
