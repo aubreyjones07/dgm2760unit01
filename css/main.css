@@ -5,11 +5,11 @@ header, main, footer {
     margin: 0 auto; 
 
 }
-/*
-  figure.bnbimage img, figure.bnbimage img {width: 90%;}
-    figure.bnbimage {width: 90%;}
 
-*/
+  figure.bnbimage img, figure.bnbimage img {width: 100%;}
+    figure.bnbimage {width: 100%;}
+
+
 
 
 
