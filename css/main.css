@@ -7,7 +7,7 @@ main, footer {
 }
 
   figure.bnbimage img, figure.bnbimage img {width: 100%;}
-    figure.bnbimage {width: 100%;}
+    figure.bnbimage {width: 100%; max-width:960px}
 
 
 
