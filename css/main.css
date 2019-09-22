@@ -11,24 +11,25 @@ main, footer {
 
 
 
-
+.companyname, .companyslogan {
+    margin: 0px auto; 
+    color: white; 
+    position: absolute; 
+    left: 140px; 
+}
 
 .companyname {
     font-size: 42px; 
-    color: white; 
-    position: absolute;
     top: 8px; 
-    text-align: center;  
+    left: 120px; 
     
      
 }
 
 .companyslogan {
     font-size: 30px; 
-    color: white; 
-    position: absolute;
     top: 60px; 
-    text-align: center; 
+   
       
     
 }
