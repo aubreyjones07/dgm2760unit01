@@ -15,7 +15,8 @@ main, footer {
     margin: 0px auto; 
     color: white; 
     position: absolute; 
-    font-family: 'robato';  
+    font-family: 'robato';
+    max-width:1024px;  
 }
 
 .companyname {
