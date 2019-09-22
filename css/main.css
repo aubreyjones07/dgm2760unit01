@@ -1,13 +1,13 @@
 
 
 main, footer {
-    max-width: 960px; 
+    max-width: 1024px; 
     margin: 0 auto; 
 
 }
 
   figure.bnbimage img, figure.bnbimage img {width: 100%;}
-    figure.bnbimage {width: 100%; max-width:960px; margin: 0 auto;}
+    figure.bnbimage {width: 100%; max-width:1024px; margin: 0 auto;}
 
 
 
