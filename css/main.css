@@ -18,7 +18,7 @@ main, footer {
     color: white; 
     position: absolute;
     top: 8px; 
-    left: 120px; 
+    text-align: center;  
     
      
 }
@@ -28,7 +28,7 @@ main, footer {
     color: white; 
     position: absolute;
     top: 60px; 
-    left: 120px;
+    text-align: center; 
       
     
 }
